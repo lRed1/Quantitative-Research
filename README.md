@@ -1,1 +1,6 @@
-Análisis del precio del gas, se crea a base de una regresion lineal el precio esperado, y se brinda una señal de precio proximo del contrato.
+Modelling and Analysis about a future price for Gas Contract
+
+Forecasting
+Analysis
+Finance
+
